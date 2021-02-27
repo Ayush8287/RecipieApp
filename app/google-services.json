@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278420794404",
+    "project_id": "recipieapp-86f1d",
+    "storage_bucket": "recipieapp-86f1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278420794404:android:578146f22c32fa71077cb1",
+        "android_client_info": {
+          "package_name": "com.codingwithme.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278420794404-vfhumj1kq4gf4b76sjse93dr752q6qfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC_tqbAlspUDc4P666I9oF1GOS5URxgT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278420794404-vfhumj1kq4gf4b76sjse93dr752q6qfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
